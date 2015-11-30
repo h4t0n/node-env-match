@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 var nodeEnvMatch = require('../');
 var expect = require('chai').expect;

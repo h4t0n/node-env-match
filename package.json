@@ -1,36 +1,41 @@
 {
-  "name": "node-env-match",
-  "version": "1.0.0",
-  "description": "Utility to test the value of the NODE_ENV system variable.",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "chai": "^3.4.1",
-    "mocha": "^2.3.4"
-  },
-  "scripts": {
-    "test": "./node_modules/.bin/mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/h4t0n/node-env-match.git"
-  },
-  "keywords": [
-    "node-env",
-    "environment",
-    "test"
-  ],
-  "author": {
-    "name": "Andrea Tarquini",
-    "email": "tarquiniandreagm@gmail.com",
-    "url": "https://blog.h4t0n.com"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/h4t0n/node-env-match/issues"
-  },
-  "homepage": "https://github.com/h4t0n/node-env-match#readme"
+    "name": "node-env-match",
+    "version": "1.0.0",
+    "description": "Utility to test the value of the NODE_ENV system variable.",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "^3.4.1",
+        "mocha": "^2.3.4"
+    },
+    "scripts": {
+        "test": "./node_modules/.bin/mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/h4t0n/node-env-match.git"
+    },
+    "keywords": [
+        "node-env",
+        "environment",
+        "test",
+        "system variable",
+        "process.env",
+        "NODE_ENV",
+        "env",
+        "config"
+    ],
+    "author": {
+        "name": "Andrea Tarquini",
+        "email": "tarquiniandreagm@gmail.com",
+        "url": "https://blog.h4t0n.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/h4t0n/node-env-match/issues"
+    },
+    "homepage": "https://github.com/h4t0n/node-env-match#readme"
 }
